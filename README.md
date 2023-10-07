@@ -1,2 +1,2 @@
 # Works-at-DIO
-Aqui fica meus exercícios feitos na DIO.me
+Aqui estão os exercícios que pratiquei, passados pela Dio.me
